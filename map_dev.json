@@ -237,7 +237,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openTab",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/3b32-2804-14d-4c64-822f-a184-8323-cbd5-386e.ngrok-free.app\/worka\/history"
                         }, 
