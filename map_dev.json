@@ -240,16 +240,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/3b32-2804-14d-4c64-822f-a184-8323-cbd5-386e.ngrok-free.app\/worka\/history"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Use a BARRA DE ESPA\u00c7O para acessar o hist\u00f3rico"
                         }],
                  "type":"tilelayer",
                  "visible":true,
